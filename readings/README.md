@@ -58,3 +58,9 @@ printNames(beatles);
 
 ### OOP
 
+### Functional Programming
+
+### NPM
+
+- [Node Package Manager](./nodePackageManager/README.md)
+
