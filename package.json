@@ -1,0 +1,23 @@
+{
+  "name": "mern_cd",
+  "version": "1.0.0",
+  "description": "## [Readings](readings/README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmax818/mern_cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmax818/mern_cd/issues"
+  },
+  "homepage": "https://github.com/tmax818/mern_cd#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
