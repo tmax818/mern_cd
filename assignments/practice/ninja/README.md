@@ -9,7 +9,7 @@ class Ninja {
         this.health = health;
         this.speed = speed;
         this.strength = strength;
-    }
+  }
 
     sayName(){
         console.log(this.name)
