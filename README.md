@@ -19,3 +19,4 @@
 - [ ] [predictDestructuring](./assignments/core/predictDestructuring/README.md)
 - [ ] [convertToArrow](./assignments/core/convertToArrow/README.md)
 - [ ] [superNinja](./assignments/core/superNinja/README.md)
+- [ ] [firstJsx](./assignments/core/firstJsx/README.md)
