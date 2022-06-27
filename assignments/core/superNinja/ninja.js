@@ -1,8 +1,4 @@
-# [Ninja](https://login.codingdojo.com/m/130/6406/45731)
 
-- [file](ninja.js)
-
-```js
 class Ninja {
     constructor(name, health, speed = 3, strength = 3) {
         this.name = name;
@@ -16,8 +12,10 @@ class Ninja {
     }
 
     showStats(){
-        console.log(` name: ${this.name}\n health: ${this.health}\n speed: ${this.speed}\n strength: ${this.strength}
-        `)
+        console.log(this.name)
+        console.log(this.health)
+        console.log(this.speed)
+        console.log(this.strength)
     }
 
     drinkShake(){
@@ -26,4 +24,4 @@ class Ninja {
     }
 }
 
-```
+module.exports = {Ninja}
