@@ -2,6 +2,6 @@
 
 
 
-- [ ] Create a create-react-app [app](fist-jsx/README.md)
+- [ ] Create a create-react-app [app](first-jsx/README.md) and modify [App.js](first-jsx/src/App.js)
 - [ ] Use JSX to display "Hello Dojo"
 - [ ] Use JSX to display a todo list

@@ -29,3 +29,13 @@
 
 - JSX Expressions must have one Parent Element
 - JSX versions of certain HTML attributes
+
+# Assignments
+
+## practice
+
+- [ ] [firstReact](../assignments/practice/firstReact/README.md)
+
+## core
+
+- [ ] [firstJsx](../assignments/core/firstJsx/README.md)
