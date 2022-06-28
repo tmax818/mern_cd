@@ -13,6 +13,7 @@
 - [ ] [hoist](./assignments/practice/hoist/README.md)
 - [ ] [ninja](./assignments/practice/ninja/README.md)
 - [ ] [firstReact](./assignments/practice/firstReact/README.md)
+- [ ] [propItUp](./assignments/practice/propItUp/README.md)
 
 ### core
 

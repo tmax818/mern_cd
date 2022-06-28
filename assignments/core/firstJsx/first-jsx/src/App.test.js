@@ -1,8 +1,14 @@
-import { render, screen } from '@testing-library/react';
+import { render, getByText } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders desired text', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  expect(getByText('Hello Dojo!')).not.toBeVisible()
+  expect(getByText('Visibility Hidden Example')).not.toBeVisible()
+  expect(getByText('Display None Example')).not.toBeVisible()
+  expect(getByText('Hidden Parent Example')).not.toBeVisible()
+  expect(getByText('Visible Example')).toBeVisible()
+  expect(getByText('Hidden Attribute Example')).not.toBeVisible()
+  expect(getByText('Hidden Details Example')).not.toBeVisible()
+  expect(getByText('Visible Details Example')).toBeVisible()
 });
