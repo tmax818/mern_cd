@@ -14,6 +14,7 @@
 - [ ] [ninja](./assignments/practice/ninja/README.md)
 - [ ] [firstReact](./assignments/practice/firstReact/README.md)
 - [ ] [propItUp](./assignments/practice/propItUp/README.md)
+- [ ] [bigInversion](./assignments/practice/bigInversion/README.md)
 
 ### core
 
@@ -21,3 +22,4 @@
 - [ ] [convertToArrow](./assignments/core/convertToArrow/README.md)
 - [ ] [superNinja](./assignments/core/superNinja/README.md)
 - [ ] [firstJsx](./assignments/core/firstJsx/README.md)
+- [ ] [puttingItTogether](./assignments/core/puttingItTogether/README.md)
