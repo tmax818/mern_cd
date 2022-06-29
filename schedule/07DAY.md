@@ -4,6 +4,7 @@
 # Assignments
 
 ## practice
+
 - [pokemon API](../assignments/practice/pokemonApi/README.md)
 
 ## core
