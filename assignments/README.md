@@ -2,13 +2,13 @@
 
 ## Practice
 
-- [ ] [hoist](./practice/hoist/README.md)
-- [ ] [ninja](./practice/ninja/README.md)
-- [ ] [firstReact](./practice/firstReact/README.md)
-- [ ] [prop it up](./practice/propItUp/README.md)
-- [ ] [big Inversion](./practice/bigInversion/README.md)
-- [ ] [hook form](./practice/hookForm/README.md)
-- [ ] [box generator](./practice/boxGenerator/README.md)
+- [x] [hoist](./practice/hoist/README.md)
+- [x] [ninja](./practice/ninja/README.md)
+- [x] [firstReact](./practice/firstReact/README.md)
+- [x] [prop it up](./practice/propItUp/README.md)
+- [x] [big Inversion](./practice/bigInversion/README.md)
+- [x] [hook form](./practice/hookForm/README.md)
+- [-] [box generator](./practice/boxGenerator/README.md)
 - [ ] [tabs ](./practice/tabs/README.md)
 - [ ] [pokemon API](./practice/pokemonApi/README.md)
 - [ ] [routing practice](./practice/routingPractice/README.md)
@@ -18,11 +18,11 @@
 
 ## Core
 
-- [ ] [predictDestructuring](./core/predictDestructuring/README.md)
-- [ ] [convertToArrow](./core/convertToArrow/README.md)
+- [x] [predictDestructuring](./core/predictDestructuring/README.md)
+- [x] [convertToArrow](./core/convertToArrow/README.md)
 - [ ] [superNinja](./core/superNinja/README.md)
-- [ ] [firstJsx](./core/firstJsx/README.md)
-- [ ] [putting it together](./core/puttingItTogether/README.md)
+- [x] [firstJsx](./core/firstJsx/README.md)
+- [x] [putting it together](./core/puttingItTogether/README.md)
 - [ ] [more forms](./core/moreForms/README.md)
 - [ ] [todo list](./core/todoList/README.md)
 - [ ] [axios pokemon API](./core/axiosPokemonApi/README.md)
