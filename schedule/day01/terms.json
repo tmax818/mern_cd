@@ -4,6 +4,9 @@
     "event-driven": "JavaScript can listen for events",
     "single thread": "one command at a time",
     "ECMA": "European Computer Manufacturer’s Association",
-    "ECMAScript": "CMAScript is the standardization of JavaScript and JavaScript is the implementation of the ECMA Standard."
+    "ECMAScript": "CMAScript is the standardization of JavaScript and JavaScript is the implementation of the ECMA Standard.",
+    "syntax error": "when the parser finds invalid JavaScript",
+    "runtime error": "code successfully parses and the error happens while the program is running."
+
 
 }
