@@ -8,8 +8,15 @@
 ## node
 
 ### intro to node
+
+- intro to node
+- let me google that for you
+- 
 ### installation
 ### running javascript
+
+- interpreted language
+- browser console
  
 ## fundamentals
 
@@ -111,10 +118,15 @@
 ### the big freeze
 ### map and filter
 
-- `.map`
-- '
+- `.map()`
+- `.filter()`
+
+
 ### object master (o)
+
 ### currying
+
+- 
 ### closures
 
 

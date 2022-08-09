@@ -1,0 +1,9 @@
+{
+    "the big three": "HTML, CSS and JavaScript",
+    "interpreted": "an interpreter parses the JavaScript we wrote and turns it into machine code for the computer",
+    "event-driven": "JavaScript can listen for events",
+    "single thread": "one command at a time",
+    "ECMA": "European Computer Manufacturer’s Association",
+    "ECMAScript": "CMAScript is the standardization of JavaScript and JavaScript is the implementation of the ECMA Standard."
+
+}
