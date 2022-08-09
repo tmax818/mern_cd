@@ -4,38 +4,38 @@
 
 ## Course Overvivew
 
-- [Intro to MERN](readings/intro_to_mern/README.md)
-- [Course Outline](readings/course_outline/README.md)
+- [Intro to MERN](#intro-to-mern)
+- [Course Outline](#course-outline)
 
 ## Node
 
-- [Into to Node](readings/intro_to_node/README.md)
+- [Into to Node](readings/intro-to-node/README.md)
 - [installation](readings/installation/README.md)
-- [running_javascript](readings/running_javascript/README.md)
+- [running-javascript](readings/running-javascript/README.md)
 
 ## Fundamentals (Day 1)
 
-- [overview](readings/overview_fund/README.md)
+- [overview](readings/overview-fund/README.md)
 - [ECMAScript](readings/ecmascript/README.md)
 - [Debugging](readings/debugging/README.md)
 - [scope](readings/scope/README.md)
 - [hoisting](readings/hoisting/README.md)
 - [hoist (practice)](assignments/practice/hoist/README.md)
 - [destructuring](readings/destructuring/README.md)
-- [predict_destructuring (C)](assignments/core/predictDestructuring/README.md)
-- [rest_spread](readings/rest_spread/README.md)
-- [arrow_functions](readings/arrow_functions/README.md)
-- [convert_to_arrow (C)](assignments/core/convert_to_arrow/README.md)
-- [ternary_opperator](readings/ternary_opperator/README.md)
-- [big_o](readings/big_o/README.md)
-- [quick_sort_intro](readings/quick_sort_intro/README.md)
+- [predict-destructuring (C)](assignments/core/predictDestructuring/README.md)
+- [rest-spread](readings/rest-spread/README.md)
+- [arrow-functions](readings/arrow-functions/README.md)
+- [convert-to-arrow (C)](assignments/core/convert-to-arrow/README.md)
+- [ternary-opperator](readings/ternary-opperator/README.md)
+- [big-o](readings/big-o/README.md)
+- [quick-sort-intro](readings/quick-sort-intro/README.md)
 - [jest](readings/jest/README.md)
 
 ## OOP (Day 2)
 
-- [overview](readings/overview_oop/README.md)
+- [overview](readings/overview-oop/README.md)
 - [classes](readings/classes/README.md)
-- [inheritance_super](readings/inheritance_super/README.md)
+- [inheritance-super](readings/inheritance-super/README.md)
 - [ninja (practice)](assignments/practice/ninja/README.md)
 - [super ninja (core)](assignments/practice/ninja/README.md)
 - [Dojo CCG]()
@@ -49,6 +49,8 @@
 - [the big freeze]()
 - [map and filter]()
 - [object master]()
+- [currying]()
+- [closures]()
 
 ## NPM
 
@@ -168,24 +170,57 @@
 
 ## Socket.io
 
-- [web sockets](readings/web_sockets/README.md)
-- [sockets on the server](readings/web_sockets_server/README.md)
-- [sockets on the client](readings/web_sockets_client/README.md)
-- [creating the handshake (P)](readings/creating_handshake_prac/README.md)
-- [Chat App (P)](readings/chat_app_prac/README.md)
+- [web sockets](readings/web-sockets/README.md)
+- [sockets on the server](readings/web-sockets-server/README.md)
+- [sockets on the client](readings/web-sockets-client/README.md)
+- [creating the handshake (P)](readings/creating-handshake-prac/README.md)
+- [Chat App (P)](readings/chat-app-prac/README.md)
 
 # MERN Auth
 
 ## MERN Auth
 
-- [authentication and authorization](readings/confirm_allow/README.md)
-- [user model](readings/user_model/README.md)
+- [authentication and authorization](readings/confirm-allow/README.md)
+- [user model](readings/user-model/README.md)
 - [registration](readings/registration/README.md)
-- [environment_variables](readings/environment_variables/README.md)
+- [environment-variables](readings/environment-variables/README.md)
 - [jwt](readings/jwt/README.md)
 - [cookies](readings/cookies/README.md)
-- [async/await](readings/async_await/README.md)
-- [login/logout](readings/login_logout/README.md)
-- [authorization and middleware](readings/auth_middleware/README.md)
+- [async/await](readings/async-await/README.md)
+- [login/logout](readings/login-logout/README.md)
+- [authorization and middleware](readings/auth-middleware/README.md)
+
+# JavaScript
+
+## Course Overview
+
+### intro to MERN
+### course outline
+
+## Node
+
+## Fundamentals
+
+## OOP
+
+## Functional Programming
+
+## NPM
 
 
+# React
+
+## intro to react
+## class components
+## functional components
+## apis
+## react routing
+
+# Express
+
+## express
+
+# MongoDB
+
+## mongoDB
+## mongoose
